@@ -18,7 +18,7 @@
 
 ---
 
-## 🎞️❤️ My Youtube Video Player --------------------------------------------------------------------
+## 🎞️❤️ My Youtube Video Player -----------------------------------------------
 <p align="justify"> My Youtube Video Player is a full-stack web application created using the PERN stack. Combining several technologies the user can perform CRUD operations. The application has features that allow the user to search for, select and display videos from YouTube. Additionaly, if the user creates or has an account and is logged in, a personalized video database can be created and videos can be added to/deleted from a favorites list.</p>
 
 <p align="center"><img src="https://media.giphy.com/media/7W6op55YeiEdE4UJzL/giphy.gif" width="200" height="200"/></p>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🐱🐶Meow & Voff Animal Shelter -----------------------------------------------------------------
+## 🐱🐶Meow & Voff Animal Shelter ---------------------------------------------
 <p align="justify"> <i>"Meow & Voff (M&V) is non-profit non-kill shelter pet shelter. Our mission is to find loving new homes for neglected and abandoned cats and dogs, regardless of their breed, age or health conditions. Until then, we provide these animals with food, medical care and a caring human presence."</i></p>
 <p align="justify">This project was motivated by my passion for animals and the need to bring attention to shelter cats and dogs by encouraging their adoption. This website is a full-stack web application created using the PERN stack. The user can navigate the website and get to know about the shelter, how he/she can support the cause and, most important, take a look at resident rescued cats and dogs that ready for adoption. If a administrator is logged-in, he/she has the possibility to additionaly manage the database, which includes cats, dogs and M&V branded products management.</p>
 <p>This is an app I <b>REALLY</b> want to keep improving as I learn new skills and have new ideas! 🐾</p><br/>
@@ -67,7 +67,7 @@
 
 <p align="justify">Here I give a short description of some of the projects I have been working on within an organization or as an element of a team: </p><br/>
 
-## Smart Coding --------------------------------------------------------------------
+## Smart Coding ----------------------------------------------------------------
 
 <p align="justify">Developed several simple web apps  during a 3-month Full Stack Developer course. These are tutorial-inspired but customized: e.g. e-commerce website.</p><br/>
 
