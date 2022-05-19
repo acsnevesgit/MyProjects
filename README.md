@@ -1,8 +1,5 @@
 <h1 align="center">💻 PROJECTS 💻</h1>
 
-<p align="center"><img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="230" height="160"/>
-<img src="https://media.giphy.com/media/dtVr1TfxVsRp30ULpA/giphy.gif" width="200" height="160"/></p><br/>
-
 ---
 
 <h2 align="center">PERSONAL PROJECTS</h2>
@@ -18,10 +15,10 @@
 
 ---
 
-## 🎞️❤️ My Youtube Video Player -----------------------------------------------
+## 🎞️🎥 My Youtube Video Player
 <p align="justify"> My Youtube Video Player is a full-stack web application created using the PERN stack. Combining several technologies the user can perform CRUD operations. The application has features that allow the user to search for, select and display videos from YouTube. Additionaly, if the user creates or has an account and is logged in, a personalized video database can be created and videos can be added to/deleted from a favorites list.</p>
 
-<p align="center"><img src="https://media.giphy.com/media/7W6op55YeiEdE4UJzL/giphy.gif" width="200" height="200"/></p>
+<p align="center"><img src="https://media.giphy.com/media/zVb50STLe5x7O/giphy.gif" width="300" height="200"/>
 
 <div align="center">
   
@@ -37,12 +34,14 @@
 
 ---
 
-## 🐱🐶Meow & Voff Animal Shelter ---------------------------------------------
+## 🐱🐶Meow & Voff Animal Shelter
 <p align="justify"> <i>"Meow & Voff (M&V) is non-profit non-kill shelter pet shelter. Our mission is to find loving new homes for neglected and abandoned cats and dogs, regardless of their breed, age or health conditions. Until then, we provide these animals with food, medical care and a caring human presence."</i></p>
 <p align="justify">This project was motivated by my passion for animals and the need to bring attention to shelter cats and dogs by encouraging their adoption. This website is a full-stack web application created using the PERN stack. The user can navigate the website and get to know about the shelter, how he/she can support the cause and, most important, take a look at resident rescued cats and dogs that ready for adoption. If a administrator is logged-in, he/she has the possibility to additionaly manage the database, which includes cats, dogs and M&V branded products management.</p>
 <p>This is an app I <b>REALLY</b> want to keep improving as I learn new skills and have new ideas! 🐾</p><br/>
 
-<p align="center"><img src="https://media.giphy.com/media/55vC4HIhBIOLx4GJyD/giphy.gif" width="150" height="120"/></p>
+<p align="center"><img src="https://media.giphy.com/media/3D2FaiB9DBs2YYK0OP/giphy.gif" width="260" height="200"/>
+<img src="https://media.giphy.com/media/2vs7BuAqSE1x6ZQQag/giphy.gif" width="200" height="200"/>
+<img src="https://media.giphy.com/media/azID9oS8OTr0pUm47B/giphy.gif" width="260" height="200"/></p><br/>
 
 <div align="center">
   
@@ -61,17 +60,23 @@
 
 ---
 
+## 👞🛒 e-commerce Shoe Store
+
+(wip)
+
+---
+
 <h2 align="center">ORGANIZATION & TEAM PROJECTS</h2>
 
-<p align="center"><img src="https://media.giphy.com/media/hTUc8vgsFMShOwtLw6/giphy.gif" width="270" height="200"/></p>
+<p align="center"><img src="https://media.giphy.com/media/9PrH2zh5SzNprjpV9C/giphy.gif" width="280" height="200"/></p><br/>
 
-<p align="justify">Here I give a short description of some of the projects I have been working on within an organization or as an element of a team: </p><br/>
+<p align="justify">Here I give a short description of some of the projects I have been working on within an organization or as an element of a team: </p>
 
-## Smart Coding ----------------------------------------------------------------
+## Smart Coding
 
-<p align="justify">Developed several simple web apps  during a 3-month Full Stack Developer course. These are tutorial-inspired but customized: e.g. e-commerce website.</p><br/>
+<p align="justify">Developed several simple web apps during a 3-month Junior Full Stack Developer course. Some are tutorial-inspired but customized : e.g. <i>e-commerce website</i> app. The <i>My Youtube Video Player</i> app was my individual project, developed over ~1.5 months.</p><br/>
 
-## Metrieve --------------------------------------------------------------------
+## Metrieve
 
 <p align="justify"> Developed the first MVP for a startup with a vision to revolutionize media intelligence. The idea was to create a SaaS platform to enable PR agencies to collect, manage, analyze data and generate meaningful insights for their customers. The used Tech Stack included most of the languages/frameworks/libraries mentioned above, in the personal projects, as well as :</p><br/>
 
@@ -85,6 +90,7 @@
 ---
 <br/>
 
-<p align="center"><img src="https://media.giphy.com/media/5h9u3OODpw8gdXrdZr/giphy.gif" width="200" height="180"/>
-<img src="https://media.giphy.com/media/64a98VUOqTQmBvftuG/giphy.gif" width="260" height="180"/></p>
-<p align="right">GIF credits : @bimay38</p>
+<h2 align="center">THANKS!</h2>
+
+<p align="center"><img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="260" height="200"/></p>
+<p align="right">GIF credits : https://giphy.com</p>
