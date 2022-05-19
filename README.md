@@ -18,7 +18,7 @@
 ## 🎞️🎥 My Youtube Video Player
 <p align="justify"> My Youtube Video Player is a full-stack web application created using the PERN stack. Combining several technologies the user can perform CRUD operations. The application has features that allow the user to search for, select and display videos from YouTube. Additionaly, if the user creates or has an account and is logged in, a personalized video database can be created and videos can be added to/deleted from a favorites list.</p>
 
-<p align="center"><img src="https://media.giphy.com/media/zVb50STLe5x7O/giphy.gif" width="300" height="200"/>
+<p align="center"><img src="https://media.giphy.com/media/zVb50STLe5x7O/giphy.gif" width="300" height="200"/></p><br/>
 
 <div align="center">
   
@@ -60,7 +60,7 @@
 
 ---
 
-## 👞🛒 e-commerce Shoe Store
+## 👞🛒 E-commerce Shoe Store
 
 (wip)
 
@@ -68,13 +68,13 @@
 
 <h2 align="center">ORGANIZATION & TEAM PROJECTS</h2>
 
-<p align="center"><img src="https://media.giphy.com/media/9PrH2zh5SzNprjpV9C/giphy.gif" width="280" height="200"/></p><br/>
+<p align="justify">Here I give a short description of some of the projects I have been working on within an organization or as an element of a team: </p><br/>
 
-<p align="justify">Here I give a short description of some of the projects I have been working on within an organization or as an element of a team: </p>
+<p align="center"><img src="https://media.giphy.com/media/9PrH2zh5SzNprjpV9C/giphy.gif" width="280" height="200"/></p>
 
 ## Smart Coding
 
-<p align="justify">Developed several simple web apps during a 3-month Junior Full Stack Developer course. Some are tutorial-inspired but customized : e.g. <i>e-commerce website</i> app. The <i>My Youtube Video Player</i> app was my individual project, developed over ~1.5 months.</p><br/>
+<p align="justify">Developed several simple web apps during a 3-month Junior Full Stack Developer course. Some are tutorial-inspired but customized; for example the <i>E-commerce Shoe Store</i> app. The <i>My Youtube Video Player</i> app was my individual project, developed over ~1.5 months of the course.</p><br/>
 
 ## Metrieve
 
