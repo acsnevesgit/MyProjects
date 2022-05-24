@@ -107,7 +107,7 @@
 
 ## 👟🛒 E-commerce Shoe Store
 
-<p align="justify">Screen-size responsive e-commerce frontend inspired on tutorial <i>Learn HTML & CSS in 2022 | Crash Course</i> --->  https://youtu.be/gXLjWRteuWI.</p/
+<p align="justify">Screen-size responsive e-commerce frontend inspired on tutorial <i>Learn HTML & CSS in 2022 | Crash Course</i> --->  https://youtu.be/gXLjWRteuWI.</p>
 
 ### 📸 Screenshots
 
@@ -142,17 +142,7 @@
 
 <h2 align="center"> - - - - - ORGANIZATION & TEAM PROJECTS - - - - - </h2>
 
-<p align="justify">Here I give a short description of some of the projects I have been working on within an organization or as an element of a team: </p><br/>
-
-<p align="center"><img src="https://media.giphy.com/media/9PrH2zh5SzNprjpV9C/giphy.gif" width="280" height="200"/></p>
-
-## 👩🏻‍💻💡 Smart Coding
-
-<p align="justify">Developed several simple web apps during a 3-month Junior Full Stack Developer course. Some are tutorial-inspired but customized; for example the <i>E-commerce Shoe Store</i> app. The <i>My Youtube Video Player</i> app was my individual project, developed over ~1.5 months of the course.</p><br/>
-
-## 🟣📊 Metrieve
-
-<p align="justify"> Developed the first MVP for a startup with a vision to revolutionize media intelligence. The idea was to create a SaaS platform to enable PR agencies to collect, manage, analyze data and generate meaningful insights for their customers. The used Tech Stack included most of the languages/frameworks/libraries mentioned above, in the personal projects, as well as :</p><br/>
+<p align="justify">Here I give a short description of some of the projects I have been working on within an organization or as an element of a team. The used Tech Stack included most of the languages/frameworks/libraries mentioned above, in the personal projects, as well as :</p><br/>
 
 <div align="center">
   
@@ -164,10 +154,18 @@
 
 </div>
 
+<br/><p align="center"><img src="https://media.giphy.com/media/9PrH2zh5SzNprjpV9C/giphy.gif" width="280" height="200"/></p>
+
+## 👩🏻‍💻💡 Smart Coding
+
+<p align="justify">Developed several simple web apps during a 3-month Junior Full Stack Developer course. Some are tutorial-inspired but customized; for example the <i>E-commerce Shoe Store</i> app. The <i>My Youtube Video Player</i> app was my individual project, developed over ~1.5 months of the course.</p>
+
+## 🟣📊 Metrieve
+
+<p align="justify"> Together with other 6 (awesome) women, I developed the first MVP for a Startup with a vision to revolutionize media intelligence. The idea was to create a SaaS platform to enable PR agencies to collect, manage, analyze data and generate meaningful insights for their customers.</p>
+
 ---
 
-<br/>
-
-<h2 align="center">Oh my... you read this far?! <b>THANKS!</b></h2>
+<h2 align="center">Oh my... you read it this far?! <b>THANKS!</b></h2>
 
 <p align="right">GIF credits : https://giphy.com</p>
