@@ -1,34 +1,64 @@
 <h1 align="center">💻 PROJECTS 💻</h1>
 
+<p align="justify">The used Technology Stack includes: </p><br/>
+
+<div align="justify">
+  
+![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled-Components Badge](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express Badge](https://img.shields.io/badge/Express-CA4245?style=for-the-badge&logo=express&logoColor=white)
+![Knex Badge](https://img.shields.io/badge/Knex-000000?style=for-the-badge&logo=knex&logoColor=white)
+![Objection Badge](https://img.shields.io/badge/Objection-000000?style=for-the-badge&logo=objection&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JSONWebTokens Badge](https://img.shields.io/badge/JSONWebTokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![testinglibrary Badge](https://img.shields.io/badge/TestingLibrary-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![EmailJS Badge](https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logo=emailjs&logoColor=white)
+![GoogleMaps Badge](https://img.shields.io/badge/GoogleMaps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Unsplash Badge](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)
+![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
 ---
 
-<h2 align="center">PERSONAL PROJECTS</h2>
+<h2 align="center"> - - - - - OWN PERSONAL PROJECTS  - - - - - </h2>
 
-<p align="justify">Here I give a short description of some of the projects I have been working on (...my free time). The used Technology Stack includes: </p><br/>
+<p align="justify">Here I give a short description of some of the projects I have been working on from scratch (...on my free time).</p><br/>
 
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,materialui,react,nodejs,expressjs,nextjs,postgres,mongodb,netlify,heroku)](https://skillicons.dev)
-  
-</div>
-<br/>
+<p align="center"><img src="https://media.giphy.com/media/zVb50STLe5x7O/giphy.gif" width="300" height="200"/></p>
 
 ---
 
 ## 🎞️🎥 My Youtube Video Player
-<p align="justify"> My Youtube Video Player is a full-stack web application created using the PERN stack. Combining several technologies the user can perform CRUD operations. The application has features that allow the user to search for, select and display videos from YouTube. Additionaly, if the user creates or has an account and is logged in, a personalized video database can be created and videos can be added to/deleted from a favorites list.</p>
+<p align="justify"> My Youtube Video Player is a full-stack web application created using the PERN stack. Combining several technologies the user can perform CRUD operations. The application has features that allow the user to search for, select and display videos from YouTube. Additionaly, if the user creates or has an account and is logged in, a personalized video database can be created and videos can be added to/deleted from a favorites list. If the video search word is covid-related, the user will receive an additional button near the video with a link that opens a modal - `Book Covid vaccine`. If clicked, information for a vaccine shot (through an API) near the user is displayed.</p>
 
-<p align="center"><img src="https://media.giphy.com/media/zVb50STLe5x7O/giphy.gif" width="300" height="200"/></p><br/>
+### 📸 Screenshots
 
-<div align="center">
+<br/><div align="center">
   
 |Pages and features|My Youtube Video Player|
 | :----------------: | :---------------------------------------------------: |
-|`Public Landing Page`|<img src="https://user-images.githubusercontent.com/94974740/162815176-0e547c5a-d770-4247-94f2-92fbee1d2029.PNG"  width="400" height="auto"/>|
-|`YouTube Video Search`|<img src="https://user-images.githubusercontent.com/94974740/168818255-4d3025b6-cc80-4455-977a-dd57a81eeed4.PNG"  width="400" height="auto"/>|
-|`Logged-in User Landing Page`|<img src="https://user-images.githubusercontent.com/94974740/162816672-c90edb3e-2544-4fa4-96f2-049ecd5c6e3f.PNG"  width="400" height="auto">|
-|`Covid-19 Vaccination Modal`|<img src="https://user-images.githubusercontent.com/94974740/168817651-c860fa4b-eda7-4b14-bcce-f2ee9702eb87.PNG"  width="400" height="auto">|
-|`Register New User Modal`|<img src="https://user-images.githubusercontent.com/94974740/168817657-0c8a5fac-191b-4640-8f93-0d1a9fbf9979.PNG"  width="400" height="auto">|
+|`Public Page`|<img src="https://user-images.githubusercontent.com/94974740/170049501-9cfea80f-4711-4882-aced-62a045c24a99.png"  width="400" height="auto"/>|
+|`Logged-in User Page (e.g. Jane Doe)`|<img src="https://user-images.githubusercontent.com/94974740/170049441-87112ea9-ab4b-44d1-bbfd-28f1cef1ddc0.png"  width="400" height="auto"/>|
+|`Search bar`|<img src="https://user-images.githubusercontent.com/94974740/170049447-8eb56386-f0fd-430f-9699-88aef8866418.png"  width="400" height="auto">|
+|`Covid-19 Vaccination Modal`|<img src="https://user-images.githubusercontent.com/94974740/170049452-7ac3f674-679e-462a-84c9-405127e5a34e.png"  width="400" height="auto">|
+|`Register New User Modal`|<img src="https://user-images.githubusercontent.com/94974740/170049503-695f77fb-2ebe-4910-a730-a6503d16248a.png"  width="400" height="auto">|
   
 </div><br/>
 
@@ -39,58 +69,105 @@
 <p align="justify">This project was motivated by my passion for animals and the need to bring attention to shelter cats and dogs by encouraging their adoption. This website is a full-stack web application created using the PERN stack. The user can navigate the website and get to know about the shelter, how he/she can support the cause and, most important, take a look at resident rescued cats and dogs that ready for adoption. If a administrator is logged-in, he/she has the possibility to additionaly manage the database, which includes cats, dogs and M&V branded products management.</p>
 <p>This is an app I <b>REALLY</b> want to keep improving as I learn new skills and have new ideas! 🐾</p><br/>
 
-<p align="center"><img src="https://media.giphy.com/media/3D2FaiB9DBs2YYK0OP/giphy.gif" width="260" height="200"/>
-<img src="https://media.giphy.com/media/2vs7BuAqSE1x6ZQQag/giphy.gif" width="200" height="200"/>
-<img src="https://media.giphy.com/media/azID9oS8OTr0pUm47B/giphy.gif" width="260" height="200"/></p><br/>
+<p align="center"><img src="https://media.giphy.com/media/3D2FaiB9DBs2YYK0OP/giphy.gif" width="auto" height="200"/>
+<img src="https://media.giphy.com/media/azID9oS8OTr0pUm47B/giphy.gif" width="auto" height="200"/></p>
 
-<div align="center">
+### 📸 Screenshots
+
+<br/><div align="center">
   
 |Pages and features|Meow & Voff Animal Shelter|
 | :----------------: | :---------------------------------------------------: |
-|`Login Page`|<img src="https://user-images.githubusercontent.com/94974740/168795218-a84e3c1d-c04d-4d92-b3cc-4d8bf188c88e.PNG"  width="400" height="auto" />|
-|`Home Page` |<img src="https://user-images.githubusercontent.com/94974740/168795213-a8ddf656-c042-411b-b267-a5c4fcb44dc1.PNG"  width="400" height="auto">|
-|`Forms Page`|<img src="https://user-images.githubusercontent.com/94974740/168795212-0e6834bb-7e3b-4909-8907-85392c7cac9b.PNG"  width="400" height="auto">|
-|`Support Us Page`|<img src="https://user-images.githubusercontent.com/94974740/168795656-99a14884-4fc6-4a28-aebd-603216f5a25c.PNG"  width="400" height="auto">|
-|`Online Store Page`|<img src="https://user-images.githubusercontent.com/94974740/168795608-eaa740e5-4d44-4bb3-8283-5794b6ea1769.PNG"  width="400" height="auto">|
-|`Our Cats Page`|<img src="https://user-images.githubusercontent.com/94974740/168795591-f41771a3-9c87-460b-9fc2-17c4146d0882.PNG"  width="400" height="auto">|
-|`Dogs DB`|<img src="https://user-images.githubusercontent.com/94974740/168795504-e0a6fcec-0aef-4965-817e-3bc57c5fcaaa.PNG"  width="400" height="auto">|
-|`Contact Us Page`|<img src="https://user-images.githubusercontent.com/94974740/168795960-7eb4deff-abca-4360-bf56-b67be61412ca.PNG"  width="400" height="auto">|
+|`Login Page`|<img src="https://user-images.githubusercontent.com/94974740/170065391-4c024264-8f14-4353-a247-ced6fa3c0b26.png"  width="400" height="auto"/>|
+|`Landing Page`|<img src="https://user-images.githubusercontent.com/94974740/170065405-de825f79-db0c-45e2-a997-bb6c25db11f9.png"  width="400" height="auto"/>|
+|`News`|<img src="https://user-images.githubusercontent.com/94974740/170065413-9cfbf24b-2c16-46d4-83f9-5eceba53291f.png"  width="400" height="auto">|
+|`About Us`|<img src="https://user-images.githubusercontent.com/94974740/170065419-012b03a3-c4f2-4d45-9374-6d77a7fd0545.png"  width="400" height="auto">|
+|`Support Us (Volunteering)`|<img src="https://user-images.githubusercontent.com/94974740/170065423-9ca22919-a9a0-4e28-8900-5aaf52a93fda.png"  width="400" height="auto">|
+|`Forms (Adoption)`|<img src="https://user-images.githubusercontent.com/94974740/170065427-78545514-6de9-4f63-a534-c2aa4bde52eb.png"  width="400" height="auto">|
+|`Our Cats (all)`|<img src="https://user-images.githubusercontent.com/94974740/170065431-38f614e9-22a2-41a0-9f82-bee27e65fbd5.png"  width="400" height="auto">|
+|`Our Dogs (filtered)`|<img src="https://user-images.githubusercontent.com/94974740/170065438-b57e94f1-0c6a-431c-b97a-e0017f97d51d.png"  width="400" height="auto">|
+|`Dog Profile (Minnie)`|<img src="https://user-images.githubusercontent.com/94974740/170065445-18cbe9b1-6958-4cb1-a9a8-d799b7c797f9.png"  width="400" height="auto">|
+|`Online Store (header)`|<img src="https://user-images.githubusercontent.com/94974740/170065447-be6023d7-6b77-42f2-a2cc-2215107269db.png"  width="400" height="auto">|
+|`Online Store (products)`|<img src="https://user-images.githubusercontent.com/94974740/170065450-86a76251-2035-4f35-8aca-cf0eab714c9b.png"  width="400" height="auto">|
+|`FAQ`|<img src="https://user-images.githubusercontent.com/94974740/170065453-c5376df4-2e5c-4af3-be2e-50c65b5d5791.png"  width="400" height="auto">|
+|`Contact Us`|<img src="https://user-images.githubusercontent.com/94974740/170065455-823be852-11cf-488d-9c4e-4f321b936085.png"  width="400" height="auto">|
+|`Admin Dashboard (Cats DB)`|<img src="https://user-images.githubusercontent.com/94974740/170065459-186b9a15-aa99-42d1-992b-ebf4a8f44272.png"  width="400" height="auto">|
+
+</div><br/>
+
+---
+
+<h2 align="center"> - - - - - PERSONAL PROJECTS INSPIRED ON OTHERS - - - - - </h2>
+
+<p align="justify">Here I give a short description of some of the projects I have been working on that were inspired by third party projects... because they are cool!</p><br/>
+
+<p align="center"><img src="https://media.giphy.com/media/iBmZcwLsNihaFpk2xs/giphy.gif" width="300" height="200"/></p>
+
+---
+
+## 👟🛒 E-commerce Shoe Store
+
+<p align="justify">Screen-size responsive e-commerce frontend inspired on tutorial <i>Learn HTML & CSS in 2022 | Crash Course</i> --->  https://youtu.be/gXLjWRteuWI.</p/
+
+### 📸 Screenshots
+
+<br/><div align="center">
+  
+|Pages and features|Shoe e-commerce frontend|
+| :----------------: | :---------------------------------------------------: |
+|`Mobile Version`|<img src="https://user-images.githubusercontent.com/94974740/170082916-e2e24884-806f-495a-a281-f29054d5d5f3.png"  width="400" height="auto"/>|
+|`Desktop Version`|<img src="https://user-images.githubusercontent.com/94974740/170082922-da1e5cbb-2bc2-44d5-9413-9146cfdc1d1b.png"  width="400" height="auto"/>|
+
+</div><br/>
+
+---
+
+## 🍳👩🏻‍🍳 Mix-it-App
+
+<p align="justify">Recipe App frontend inspired on tutorial <i>React Crash Course - Build A Full Recipe App Tutorial</i> --->  https://www.youtube.com/watch?v=xc4uOzlndAk&t=6730s</p/
+<p align="justify">Mix-it-App is a web app for home cooks created with React and using third party API's, mainly <b>spoonacular API</b> - a comprehensive food API that <i>"combines dining out, eating store-bought food, and cooking at home to help you find and organize the restaurants, products, and recipes that fit your diet and can help you reach your nutrition goals."</i>.</p>
+
+### 📸 Screenshots
+
+<br/><div align="center">
+  
+|Pages and features|Mix-it-App|
+| :----------------: | :---------------------------------------------------: |
+|`Landing Page`|<img src="https://user-images.githubusercontent.com/94974740/170041008-ce25085b-719d-4255-bd02-7bcc85d3948a.png"  width="400" height="auto" />|
+|`Recipe Page` |<img src="https://user-images.githubusercontent.com/94974740/170041015-67947864-bec6-40c7-bbfb-2defe6275b78.png"  width="400" height="auto">|
   
 </div><br/>
 
 ---
 
-## 👞🛒 E-commerce Shoe Store
-
-(wip)
-
----
-
-<h2 align="center">ORGANIZATION & TEAM PROJECTS</h2>
+<h2 align="center"> - - - - - ORGANIZATION & TEAM PROJECTS - - - - - </h2>
 
 <p align="justify">Here I give a short description of some of the projects I have been working on within an organization or as an element of a team: </p><br/>
 
 <p align="center"><img src="https://media.giphy.com/media/9PrH2zh5SzNprjpV9C/giphy.gif" width="280" height="200"/></p>
 
-## Smart Coding
+## 👩🏻‍💻💡 Smart Coding
 
 <p align="justify">Developed several simple web apps during a 3-month Junior Full Stack Developer course. Some are tutorial-inspired but customized; for example the <i>E-commerce Shoe Store</i> app. The <i>My Youtube Video Player</i> app was my individual project, developed over ~1.5 months of the course.</p><br/>
 
-## Metrieve
+## 🟣📊 Metrieve
 
 <p align="justify"> Developed the first MVP for a startup with a vision to revolutionize media intelligence. The idea was to create a SaaS platform to enable PR agencies to collect, manage, analyze data and generate meaningful insights for their customers. The used Tech Stack included most of the languages/frameworks/libraries mentioned above, in the personal projects, as well as :</p><br/>
 
 <div align="center">
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="auto" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="45" height="auto" />&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-  
+![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 </div>
 
-
 ---
+
 <br/>
 
-<h2 align="center">THANKS!</h2>
+<h2 align="center">Oh my... you read this far?! <b>THANKS!</b></h2>
 
-<p align="center"><img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="260" height="200"/></p>
 <p align="right">GIF credits : https://giphy.com</p>
