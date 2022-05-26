@@ -55,8 +55,8 @@
   
 |Pages and features|My Youtube Video Player|
 | :----------------: | :---------------------------------------------------: |
-|`Public Page`|<img src="https://user-images.githubusercontent.com/94974740/170049501-9cfea80f-4711-4882-aced-62a045c24a99.png"  width="400" height="auto"/>|
-|`Logged-in User Page (e.g. Jane Doe)`|<img src="https://user-images.githubusercontent.com/94974740/170049441-87112ea9-ab4b-44d1-bbfd-28f1cef1ddc0.png"  width="400" height="auto"/>|
+|`Public Landing Page`|<img src="https://user-images.githubusercontent.com/94974740/170049501-9cfea80f-4711-4882-aced-62a045c24a99.png"  width="400" height="auto"/>|
+|`Logged-in User Landing Page`|<img src="https://user-images.githubusercontent.com/94974740/170049441-87112ea9-ab4b-44d1-bbfd-28f1cef1ddc0.png"  width="400" height="auto"/>|
 |`Search bar`|<img src="https://user-images.githubusercontent.com/94974740/170049447-8eb56386-f0fd-430f-9699-88aef8866418.png"  width="400" height="auto">|
 |`Covid-19 Vaccination Modal`|<img src="https://user-images.githubusercontent.com/94974740/170049452-7ac3f674-679e-462a-84c9-405127e5a34e.png"  width="400" height="auto">|
 |`Register New User Modal`|<img src="https://user-images.githubusercontent.com/94974740/170049503-695f77fb-2ebe-4910-a730-a6503d16248a.png"  width="400" height="auto">|
@@ -67,8 +67,8 @@
 
 ## 🐱🐶Meow & Voff Animal Shelter
 <p align="justify"> <i>"Meow & Voff (M&V) is non-profit non-kill shelter pet shelter. Our mission is to find loving new homes for neglected and abandoned cats and dogs, regardless of their breed, age or health conditions. Until then, we provide these animals with food, medical care and a caring human presence."</i></p>
-<p align="justify">This project was motivated by my passion for animals and the need to bring attention to shelter cats and dogs by encouraging their adoption. This website is a full-stack web application created using the PERN stack. The user can navigate the website and get to know about the shelter, how he/she can support the cause and, most important, take a look at resident rescued cats and dogs that ready for adoption. If a administrator is logged-in, he/she has the possibility to additionaly manage the database, which includes cats, dogs and M&V branded products management.</p>
-<p>This is an app I <b>REALLY</b> want to keep improving as I learn new skills and have new ideas! 🐾</p><br/>
+<p align="justify">This project was motivated by my passion for animals and the need to bring attention to shelter cats and dogs by encouraging their adoption. This website is a full-stack web application created using the PERN stack. The user can navigate the website and get to know about the shelter, find information about the different ways one can support the cause and, most important, take a look at resident rescued cats and dogs that are ready for adoption. Furthermore, a logged-in and authorized user (e.g. Administrator) has access to the shelter database. This can be used do manage data about cats, dogs and M&V branded products directly from the website, in a user-friendly manner.</p>
+<p>This is a personal project I <b>REALLY</b> want to see grow. I will make improvements and changes over time as I acquire new skills and have new ideas! 🐾</p><br/>
 
 <p align="center"><img src="https://media.giphy.com/media/3D2FaiB9DBs2YYK0OP/giphy.gif" width="auto" height="200"/>
 <img src="https://media.giphy.com/media/azID9oS8OTr0pUm47B/giphy.gif" width="auto" height="200"/></p>
@@ -126,7 +126,7 @@
 ## 🍳👩🏻‍🍳 Mix-it-App
 
 <p align="justify">Recipe App frontend inspired on tutorial <i>React Crash Course - Build A Full Recipe App Tutorial</i> --->  https://www.youtube.com/watch?v=xc4uOzlndAk&t=6730s</p/
-<p align="justify">Mix-it-App is a web app for home cooks created with React and using third party API's, mainly <b>spoonacular API</b> - a comprehensive food API that <i>"combines dining out, eating store-bought food, and cooking at home to help you find and organize the restaurants, products, and recipes that fit your diet and can help you reach your nutrition goals."</i>.</p>
+<p align="justify">Mix-it-App is a web app for home cooks created with React and using a third party API - <b>spoonacular API</b> - a comprehensive food API that <i>"combines dining out, eating store-bought food, and cooking at home to help you find and organize the restaurants, products, and recipes that fit your diet and can help you reach your nutrition goals."</i>.</p>
 
 ### 📸 Screenshots
 
