@@ -40,7 +40,7 @@
 
 <h2 align="center"> - - - - - OWN PERSONAL PROJECTS  - - - - - </h2>
 
-<p align="justify">Here I give a short description of some of the projects I have been working on from scratch (...on my free time).</p><br/>
+<p align="justify">Here I give a short description of some of the projects I have been working on from scratch, on my free time.</p><br/>
 
 <p align="center"><img src="https://media.giphy.com/media/zVb50STLe5x7O/giphy.gif" width="300" height="200"/></p>
 
