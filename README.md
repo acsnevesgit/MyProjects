@@ -46,6 +46,20 @@
 
 ---
 
+## 🧪🧠 Re@ct-L@b
+<p align="justify">Re@ct-L@b is a repo for experimenting around, mainly with React components that have different functions. Some are completely made from scratch; Some are inspired in other projects and/or build with the help of npm. The idea is to both let me practice and also to create reusable custom components, which I can later use in future projects.</p>
+
+<p align="justify">This repo is public, check it here: https://github.com/acsnevesgit/react-lab.git</p>
+
+---
+
+## 💬🔥 React Firebase-Chat
+<p align="justify">React Firebase-Chat is a chat or messaging app build with the help of Firebase, which is a Backend-as-a-Service (BaaS) owned by Google. Firebase has extensive features for building, hosting and managing apps but (at this point) I am mainly using it for user Authentication, file Storage and as a Database.</p>
+
+<p align="justify">This repo is public, check it here: https://github.com/acsnevesgit/firebase-chat.git</p>
+
+---
+
 ## 🎞️🎥 My Youtube Video Player
 <p align="justify"> My Youtube Video Player is a full-stack web application created using the PERN stack. Combining several technologies the user can perform CRUD operations. The application has features that allow the user to search for, select and display videos from YouTube. Additionaly, if the user creates or has an account and is logged in, a personalized video database can be created and videos can be added to/deleted from a favorites list. If the video search word is covid-related, the user will receive an additional button near the video with a link that opens a modal - `Book Covid vaccine`. If clicked, information for a vaccine shot (through an API) near the user is displayed.</p>
 
@@ -68,10 +82,7 @@
 ## 🐱🐶Meow & Voff Animal Shelter
 <p align="justify"> <i>"Meow & Voff (M&V) is non-profit non-kill shelter pet shelter. Our mission is to find loving new homes for neglected and abandoned cats and dogs, regardless of their breed, age or health conditions. Until then, we provide these animals with food, medical care and a caring human presence."</i></p>
 <p align="justify">This project was motivated by my passion for animals and the need to bring attention to shelter cats and dogs by encouraging their adoption. This website is a full-stack web application created using the PERN stack. The user can navigate the website and get to know about the shelter, find information about the different ways one can support the cause and, most important, take a look at resident rescued cats and dogs that are ready for adoption. Furthermore, a logged-in and authorized user (e.g. Administrator) has access to the shelter database. This can be used do manage data about cats, dogs and M&V branded products directly from the website, in a user-friendly manner.</p>
-<p>This is a personal project I <b>REALLY</b> want to see grow. I will make improvements and changes over time as I acquire new skills and have new ideas! 🐾</p><br/>
-
-<p align="center"><img src="https://media.giphy.com/media/3D2FaiB9DBs2YYK0OP/giphy.gif" width="auto" height="200"/>
-<img src="https://media.giphy.com/media/azID9oS8OTr0pUm47B/giphy.gif" width="auto" height="200"/></p>
+<p>This is a personal project I <b>REALLY</b> want to see grow. I will make improvements and changes over time as I acquire new skills and have new ideas! 🐾</p>
 
 ### 📸 Screenshots
 
