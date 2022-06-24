@@ -79,20 +79,15 @@
   
 |Pages and features|Meow & Voff Animal Shelter|
 | :----------------: | :---------------------------------------------------: |
-|`Login Page`|<img src="https://user-images.githubusercontent.com/94974740/170065391-4c024264-8f14-4353-a247-ced6fa3c0b26.png"  width="400" height="auto"/>|
-|`Landing Page`|<img src="https://user-images.githubusercontent.com/94974740/170065405-de825f79-db0c-45e2-a997-bb6c25db11f9.png"  width="400" height="auto"/>|
-|`News`|<img src="https://user-images.githubusercontent.com/94974740/170065413-9cfbf24b-2c16-46d4-83f9-5eceba53291f.png"  width="400" height="auto">|
-|`About Us`|<img src="https://user-images.githubusercontent.com/94974740/170065419-012b03a3-c4f2-4d45-9374-6d77a7fd0545.png"  width="400" height="auto">|
-|`Support Us (Volunteering)`|<img src="https://user-images.githubusercontent.com/94974740/170065423-9ca22919-a9a0-4e28-8900-5aaf52a93fda.png"  width="400" height="auto">|
-|`Forms (Adoption)`|<img src="https://user-images.githubusercontent.com/94974740/170065427-78545514-6de9-4f63-a534-c2aa4bde52eb.png"  width="400" height="auto">|
-|`Our Cats (all)`|<img src="https://user-images.githubusercontent.com/94974740/170065431-38f614e9-22a2-41a0-9f82-bee27e65fbd5.png"  width="400" height="auto">|
-|`Our Dogs (filtered)`|<img src="https://user-images.githubusercontent.com/94974740/170065438-b57e94f1-0c6a-431c-b97a-e0017f97d51d.png"  width="400" height="auto">|
-|`Dog Profile (Minnie)`|<img src="https://user-images.githubusercontent.com/94974740/170065445-18cbe9b1-6958-4cb1-a9a8-d799b7c797f9.png"  width="400" height="auto">|
-|`Online Store (header)`|<img src="https://user-images.githubusercontent.com/94974740/170065447-be6023d7-6b77-42f2-a2cc-2215107269db.png"  width="400" height="auto">|
-|`Online Store (products)`|<img src="https://user-images.githubusercontent.com/94974740/170065450-86a76251-2035-4f35-8aca-cf0eab714c9b.png"  width="400" height="auto">|
-|`FAQ`|<img src="https://user-images.githubusercontent.com/94974740/170065453-c5376df4-2e5c-4af3-be2e-50c65b5d5791.png"  width="400" height="auto">|
-|`Contact Us`|<img src="https://user-images.githubusercontent.com/94974740/170065455-823be852-11cf-488d-9c4e-4f321b936085.png"  width="400" height="auto">|
-|`Admin Dashboard (Cats DB)`|<img src="https://user-images.githubusercontent.com/94974740/170065459-186b9a15-aa99-42d1-992b-ebf4a8f44272.png"  width="400" height="auto">|
+|`Login Page`|<img src="https://user-images.githubusercontent.com/94974740/175557277-def3cffa-d380-4344-8f26-5098759b3825.png"  width="400" height="auto"/>|
+|`Home Page`|<img src="https://user-images.githubusercontent.com/94974740/175557374-5dc7eddf-8062-4113-9fd7-c300ff962021.png"  width="400" height="auto"/>|
+|`Support Us`|<img src="https://user-images.githubusercontent.com/94974740/175557458-21728648-6927-4e54-8a96-a972f15c235f.png"  width="400" height="auto">|
+|`Forms`|<img src="https://user-images.githubusercontent.com/94974740/175557548-bef9987d-5359-470c-806b-291d7b6e0200.png"  width="400" height="auto">|
+|`Our Cats (filtered)`|<img src="https://user-images.githubusercontent.com/94974740/175557719-a8b53fa3-c6ba-4732-87e5-b5499fc5c39d.png"  width="400" height="auto">|
+|`Our Dogs (all)`|<img src="https://user-images.githubusercontent.com/94974740/175557774-22a43d06-09de-45e8-ab82-871c0954e39f.png"  width="400" height="auto">|
+|`Online Store`|<img src="https://user-images.githubusercontent.com/94974740/175557768-eee0ac52-7265-4327-a726-485e6e530b0c.png"  width="400" height="auto">|
+|`Cart`|<img src="https://user-images.githubusercontent.com/94974740/175558165-56f67eef-d014-4a1f-ad89-83b324c1668d.png"  width="400" height="auto">|
+|`Cats DB`|<img src="https://user-images.githubusercontent.com/94974740/175557895-0e2e30df-34bd-40c2-b603-8508f0463372.png"  width="400" height="auto">|
 
 </div><br/>
 
